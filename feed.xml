@@ -7,6 +7,12 @@
     <atom:link href="./feed.xml" rel="self" type="application/rss+xml" />
     <language>en-IN</language>
     <item>
+      <title>Shaunak Kashyap, Advocate — Public Legal Record</title>
+      <description>Selected public legal appearances and constitutional-law resources associated with Shaunak Kashyap, Advocate, Kashyap Chambers.</description>
+      <link>./public-record.html</link>
+      <guid>./public-record.html</guid>
+    </item>
+    <item>
       <title>Anti-Defection Law and Parliamentary Privileges: A Reading Guide</title>
       <description>A practical entry point for advocates, law students, and researchers approaching the Tenth Schedule, legislative privilege, and constitutional practice.</description>
       <link>./blog/reading-guide.html</link>
