@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kashyap Chambers Constitutional Law Resources</title>
+    <description>Essays and reading notes on anti-defection law, parliamentary privileges, and Indian constitutional practice.</description>
+    <link>./index.html</link>
+    <atom:link href="./feed.xml" rel="self" type="application/rss+xml" />
+    <language>en-IN</language>
+    <item>
+      <title>Anti-Defection Law and Parliamentary Privileges: A Reading Guide</title>
+      <description>A practical entry point for advocates, law students, and researchers approaching the Tenth Schedule, legislative privilege, and constitutional practice.</description>
+      <link>./blog/reading-guide.html</link>
+      <guid>./blog/reading-guide.html</guid>
+    </item>
+    <item>
+      <title>What is the Anti-Defection Law in India?</title>
+      <description>The Tenth Schedule explained for lawyers, students, and constitutional-law researchers.</description>
+      <link>./blog/anti-defection-law-india.html</link>
+      <guid>./blog/anti-defection-law-india.html</guid>
+    </item>
+    <item>
+      <title>Parliamentary Privileges and Legislative Independence</title>
+      <description>A note on Article 105, institutional autonomy, and the function of parliamentary privilege.</description>
+      <link>./blog/parliamentary-privileges-legislative-independence.html</link>
+      <guid>./blog/parliamentary-privileges-legislative-independence.html</guid>
+    </item>
+    <item>
+      <title>Why this subject matters to advocates and researchers</title>
+      <description>Where defection law and privilege turn up in litigation, research, and constitutional practice.</description>
+      <link>./blog/why-this-matters-to-advocates.html</link>
+      <guid>./blog/why-this-matters-to-advocates.html</guid>
+    </item>
+  </channel>
+</rss>
