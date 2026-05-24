@@ -7,6 +7,12 @@
     <atom:link href="./feed.xml" rel="self" type="application/rss+xml" />
     <language>en-IN</language>
     <item>
+      <title>WordPress Mirror: Anti-Defection Law and Parliamentary Privileges</title>
+      <description>The WordPress mirror for the Anti-Defection Law and Parliamentary Privileges resource, including book links, essays, public references, and curator contact information.</description>
+      <link>https://shaunakkashyapadvocate.blog/</link>
+      <guid>https://shaunakkashyapadvocate.blog/</guid>
+    </item>
+    <item>
       <title>Shaunak Kashyap, Advocate — Public Legal Record</title>
       <description>Selected public legal appearances and constitutional-law resources associated with Shaunak Kashyap, Advocate, Kashyap Chambers.</description>
       <link>./public-record.html</link>
